@@ -1,0 +1,11 @@
+Body:
+{
+    "user": {
+        "username": "misterche51",
+        "email": "misterche51@misterche51.misterche51",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlZjQ4ZjA1Njk5ZDE2MDMyNDZmZDU2ZiIsInVzZXJuYW1lIjoibWlzdGVyY2hlNTEiLCJleHAiOjE1OTgyNjk5MzgsImlhdCI6MTU5MzA4NTkzOH0.zU0RZ2hM3kraz0EZ9HSWJmCbkNC-EQil3EJ8cVoZY1c"
+    }
+}
+
+Code:
+[{"key":"X-SuperSecretCode","value":"Alakazam 3511","description":"Custom header","enabled":true,"disableEdit":true,"info":"Custom header"}]
